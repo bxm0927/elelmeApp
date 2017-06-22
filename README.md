@@ -64,5 +64,3 @@ $ npm run dev
 # build for production with minification
 $ npm run build
 ```
-
-> 以后代码写得好，升职加薪当上总经理，出任CEO，迎娶白富美，从此人生走向巅峰~~
