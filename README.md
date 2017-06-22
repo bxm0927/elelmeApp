@@ -3,7 +3,7 @@
 
 👉 GitHub 开源代码：[https://github.com/bxm0927/elelmeApp](https://github.com/bxm0927/elelmeApp)
 
-👉 项目演示地址(或扫码)：[https://bxm0927.github.io/elelmeApp/?id=123#/goods](https://gbxm0927.github.io/elelmeApp/?id=123#/goods)
+👉 项目演示地址(或扫码)：[https://bxm0927.github.io/elelmeApp/?id=123#/goods](https://bxm0927.github.io/elelmeApp/?id=123#/goods)
 
 ![二维码地址]()
 
