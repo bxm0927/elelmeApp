@@ -30,19 +30,19 @@ var ratingsBox = appDate.ratingsBox;
 
 // 定义路由和接口(获取 json 键值对)
 var apiRoutes = express.Router();
-apiRoutes.get('../src/components/seller', function (req, res) {
+apiRoutes.get('/seller', function (req, res) {
   res.json({
     errno: 0,
     data: seller
   });
 });
-apiRoutes.get('../src/components/seller', function (req, res) {
+apiRoutes.get('/goods', function (req, res) {
   res.json({
     errno: 0,
     data: goods
   });
 });
-apiRoutes.get('../src/components/seller', function (req, res) {
+apiRoutes.get('/ratingsBox', function (req, res) {
   res.json({
     errno: 0,
     data: ratingsBox
