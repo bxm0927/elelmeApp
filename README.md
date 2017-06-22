@@ -1,11 +1,11 @@
 
 # Vue.js 高仿饿了么外卖 APP
 
-👉 GitHub 开源代码：github.com/bxm0927/elelmeApp
+👉 GitHub 开源代码：# [github.com/bxm0927/elelmeApp](github.com/bxm0927/elelmeApp)
 
-👉 项目演示地址(或扫码)：bxm0927.github.io/elelmeApp/?id=123#/goods
+👉 项目演示地址(或扫码)：[bxm0927.github.io/elelmeApp/?id=123#/goods](gbxm0927.github.io/elelmeApp/?id=123#/goods)
 
-![二维码地址](bxm0927.github.io/elelmeApp/?id=123#/goods)
+![二维码地址]()
 
 **项目简介**
 
@@ -22,7 +22,7 @@
 - HTML/CSS/JS：使用 HTML 5 localStorage 存储本地数据、使用 Stylus 和 Sass 预编译 CSS、使用了自己编写的 reset.css 来统一页面初始样式、移动端设备像素比、媒体查询、flex弹性布局、CSS Sticky footers、iconFont 图标字体等
 - eslint：js代码规范
 - better-scroll：js 插件，实现平滑滚动效果
-- Vue.js：一个前端 MVVM 框架，主要思想是**双向数据绑定**和**组件化**
+- Vue.js：一个前端 MVVM 框架，主要思想是双向数据绑定和组件化
 - vue-cli：Vue.js 官方提供的一个脚手架工具，里面提供的一些基础的代码结构
 - vue-router：用 Vue.js + vue-router 创建单页应用，是将组件(components)映射到路由(routes)，然后告诉 vue-router 在哪里渲染它们
 - vue-resource：这是一个 Vue.js 的插件，提供了使用 XMLHttpRequest 或 JSONP 进行Web请求和处理响应的服务
