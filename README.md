@@ -1,9 +1,9 @@
 
 # Vue.js 高仿饿了么外卖 APP
 
-👉 GitHub 开源代码：# [github.com/bxm0927/elelmeApp](github.com/bxm0927/elelmeApp)
+👉 GitHub 开源代码：[https://github.com/bxm0927/elelmeApp](https://github.com/bxm0927/elelmeApp)
 
-👉 项目演示地址(或扫码)：[bxm0927.github.io/elelmeApp/?id=123#/goods](gbxm0927.github.io/elelmeApp/?id=123#/goods)
+👉 项目演示地址(或扫码)：[https://bxm0927.github.io/elelmeApp/?id=123#/goods](https://gbxm0927.github.io/elelmeApp/?id=123#/goods)
 
 ![二维码地址]()
 
